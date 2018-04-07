@@ -7,7 +7,7 @@
 
 
 
-### ls -lh
+**_ls -lh_**  
 total 77G  
 -rw-r--r--. 1 akmtir akmtir 469M Apr  6 21:49 Fat16.dd  
 -rw-r--r--. 1 root   root   1.9G Apr  7 10:37 Fat32.dd  
@@ -16,7 +16,7 @@ total 77G
 -rw-rw-r--. 1 akmtir akmtir 8.1K Apr  7 14:18 vbr.py  
 
 
-### sudo python3 vbr.py Fat16.dd
+**_sudo python3 vbr.py Fat16.dd_**  
 Looks like a MBR or VBR  
 MBR signature valid: True  
 Partition 1 information:  
@@ -43,7 +43,7 @@ Cluster 14: 917
 Sector: 14  
 
 
-### sudo python3 vbr.py Fat32.dd 
+**_sudo python3 vbr.py Fat32.dd_**  
 Looks like a MBR or VBR  
 MBR signature valid: True  
 Partition 1 information:  
@@ -70,7 +70,7 @@ Cluster 14: 8288
 Sector: 14  
 
 
-### sudo python3 vbr.py HD_NTFS.dd 
+**_sudo python3 vbr.py HD_NTFS.dd_**  
 Looks like a MBR or VBR  
 MBR signature valid: True  
 Partition 1 information:  
@@ -125,7 +125,7 @@ Sector: 14
 Sorry GPT and extended partitions are not supported by this script!  
 
 
-### sudo python3 mbr.py HD_NTFS.dd 
+**_sudo python3 mbr.py HD_NTFS.dd_**  
 Looks like a MBR or VBR  
 MBR signature valid: True  
 Partition 1 information:  
