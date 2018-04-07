@@ -1,9 +1,9 @@
 # Python Scripting 
 
-### The vbr.py is a simple Python script that will attempt to read the volume boot record (VBR) from an image file. The  volume boot record (VBR) is also known as a volume boot sector.
+### The vbr.py is a simple Python script will attempt to read the volume boot record (VBR) from an image file. The  volume boot record (VBR) is also known as a volume boot sector.
 
 
-### The mbr.py is a simple Python script that will attempt to mount partitions from an image file. Images are mounted in read-only mode.
+### The mbr.py is a simple Python script will attempt to mount partitions from an image file. Images are mounted in read-only mode.
 
 
 
