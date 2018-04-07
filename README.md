@@ -158,5 +158,5 @@ Partition 3 information:
 ...  
 
 
-[Ak. MT. 07-04-2018](http://www.akmtir.com/)
+[Ak. MT. 07-05-2018](http://www.akmtir.com/)
 
