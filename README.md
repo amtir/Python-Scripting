@@ -20,8 +20,8 @@ total 77G
 Looks like a MBR or VBR  
 MBR signature valid: True  
 Partition 1 information:  
-	Bootable: True  
-	Start head: 15  
+	...Bootable: True  
+...Start head: 15  
 	Start sector: 10  
 	Start cylinder: 0  
 	Partition type: 6  
@@ -158,5 +158,5 @@ Partition 3 information:
 ...  
 
 
-[Ak. MT. 01-04-2018](http://www.akmtir.com/)
+[Ak. MT. 07-04-2018](http://www.akmtir.com/)
 
